@@ -1,0 +1,39 @@
+.progressBar{
+    height: 165px;
+    width: 208px;
+    background-color: rgba(51, 59, 68, 1);
+    border-radius: 10px;
+}
+.progress_cover{
+    padding: 10px;
+}
+.progressBar_{
+    margin-bottom: 5px;
+    background-color: rgba(27, 34, 42, 1);
+    border-radius: 10px;
+}
+.header{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 8px;
+    padding: 3px;
+}
+.progress{
+    padding-bottom: 5px;
+}
+.progressBar_outer{
+    height: 13px;
+    width: 95%;
+    background-color: #101317;
+    border-radius: 40px;
+    margin-bottom: 4px;
+    margin-left: 5px;
+}
+.progressBar_inner{
+    height: 100%;
+    /* width: calc((50/70)*100%); */
+    /* background-color: rgba(244, 92, 132, 1); */
+    border-radius:40px;
+    text-align: end;
+}
